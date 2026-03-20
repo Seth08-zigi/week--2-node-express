@@ -1,1 +1,0 @@
-console.log("Kusi Seth", 21, "Python"); 
